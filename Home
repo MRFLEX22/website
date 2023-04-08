@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>My Homepage</title>	<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+
+	<header>
+
+		<h1>Welcome to My Homepage</h1>
+
+		<nav>
+
+			<ul>
+
+				<li><a href="#">Home</a></li>
+
+				<li><a href="#">About</a></li>
+
+				<li><a href="#">Services</a></li>
+
+				<li><a href="#">Contact</a></li>
+
+			</ul>
+
+		</nav>
+
+	</header>
+
+	<section class="hero">
+
+		<div class="hero-content">
+
+			<h2>Discover Our Amazing Services</h2>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis neque vitae lacus faucibus sollicitudin.</p>
+
+			<a href="#" class="btn">Learn More</a>
+
+		</div>
+
+	</section>
+
+	<section class="services">
+
+		<h2>Our Services</h2>
+
+		<ul>
+
+			<li>
+
+				<i class="fas fa-code"></i>
+
+				<h3>Web Development</h3>
+
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+			</li>
+
+			<li>
+
+				<i class="fas fa-pencil-alt"></i>
+
+				<h3>Graphic Design</h3>
+
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+			</li>
+
+			<li>
+
+				<i class="fas fa-mobile-alt"></i>
+
+				<h3>Mobile App Development</h3>
+
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+			</li>
+
+		</ul>
+
+	</section>
+
+	<section class="about">
+
+		<h2>About Us</h2>
+
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis neque vitae lacus faucibus sollicitudin. Aenean nec turpis urna. Sed eget massa enim. In hac habitasse platea dictumst. Etiam sagittis sapien id nunc porttitor, eu vulputate eros finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum euismod congue ex, a lacinia urna facilisis non. In hac habitasse platea dictumst.</p>
+
+	</section>
+
+	<footer>
+
+		<p>&copy; 2023 My Homepage</p>
+
+	</footer>
+
+</body>
+
+</html>
